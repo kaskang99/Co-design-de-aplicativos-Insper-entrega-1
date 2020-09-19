@@ -1,3 +1,7 @@
+html {
+    font-family: Arial;
+}
+
 h1 {
     color: red;
     font-family: Arial;
@@ -5,7 +9,355 @@ h1 {
     text-align: center;
 }   
 
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
 .homeButton {
-    width: 60px;
-    height: 60px;
+    width: 4rem;
+    height: 4rem;   
+}
+
+a {
+    display: block;
+    margin: .1rem;
+    border: .1rem solid black;
+    padding: .1rem .1rem .1rem .1rem;
+    background-color: white;
+}
+
+img {
+    padding: 0rem 1rem 0rem 0rem;
+}
+html {
+    font-family: Arial;
+}
+
+h1 {
+    color: red;
+    font-family: Arial;
+    font-size: 48px;
+    text-align: center;
+}   
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.homeButton {
+    width: 4rem;
+    height: 4rem;   
+}
+
+a {
+    display: block;
+    margin: .1rem;
+    border: .1rem solid black;
+    padding: .1rem .1rem .1rem .1rem;
+    background-color: white;
+}
+
+img {
+    padding: 0rem 1rem 0rem 0rem;
+}
+html {
+    font-family: Arial;
+}
+
+h1 {
+    color: red;
+    font-family: Arial;
+    font-size: 48px;
+    text-align: center;
+}   
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.homeButton {
+    width: 4rem;
+    height: 4rem;   
+}
+
+a {
+    display: block;
+    margin: .1rem;
+    border: .1rem solid black;
+    padding: .1rem .1rem .1rem .1rem;
+    background-color: white;
+}
+
+img {
+    padding: 0rem 1rem 0rem 0rem;
+}
+html {
+    font-family: Arial;
+}
+
+h1 {
+    color: red;
+    font-family: Arial;
+    font-size: 48px;
+    text-align: center;
+}   
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.homeButton {
+    width: 4rem;
+    height: 4rem;   
+}
+
+a {
+    display: block;
+    margin: .1rem;
+    border: .1rem solid black;
+    padding: .1rem .1rem .1rem .1rem;
+    background-color: white;
+}
+
+img {
+    padding: 0rem 1rem 0rem 0rem;
+}
+html {
+    font-family: Arial;
+}
+
+h1 {
+    color: red;
+    font-family: Arial;
+    font-size: 48px;
+    text-align: center;
+}   
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.homeButton {
+    width: 4rem;
+    height: 4rem;   
+}
+
+a {
+    display: block;
+    margin: .1rem;
+    border: .1rem solid black;
+    padding: .1rem .1rem .1rem .1rem;
+    background-color: white;
+}
+
+img {
+    padding: 0rem 1rem 0rem 0rem;
+}
+html {
+    font-family: Arial;
+}
+
+h1 {
+    color: red;
+    font-family: Arial;
+    font-size: 48px;
+    text-align: center;
+}   
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.homeButton {
+    width: 4rem;
+    height: 4rem;   
+}
+
+a {
+    display: block;
+    margin: .1rem;
+    border: .1rem solid black;
+    padding: .1rem .1rem .1rem .1rem;
+    background-color: white;
+}
+
+img {
+    padding: 0rem 1rem 0rem 0rem;
+}
+html {
+    font-family: Arial;
+}
+
+h1 {
+    color: red;
+    font-family: Arial;
+    font-size: 48px;
+    text-align: center;
+}   
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.homeButton {
+    width: 4rem;
+    height: 4rem;   
+}
+
+a {
+    display: block;
+    margin: .1rem;
+    border: .1rem solid black;
+    padding: .1rem .1rem .1rem .1rem;
+    background-color: white;
+}
+
+img {
+    padding: 0rem 1rem 0rem 0rem;
+}
+html {
+    font-family: Arial;
+}
+
+h1 {
+    color: red;
+    font-family: Arial;
+    font-size: 48px;
+    text-align: center;
+}   
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.homeButton {
+    width: 4rem;
+    height: 4rem;   
+}
+
+a {
+    display: block;
+    margin: .1rem;
+    border: .1rem solid black;
+    padding: .1rem .1rem .1rem .1rem;
+    background-color: white;
+}
+
+img {
+    padding: 0rem 1rem 0rem 0rem;
+}
+html {
+    font-family: Arial;
+}
+
+h1 {
+    color: red;
+    font-family: Arial;
+    font-size: 48px;
+    text-align: center;
+}   
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.homeButton {
+    width: 4rem;
+    height: 4rem;   
+}
+
+a {
+    display: block;
+    margin: .1rem;
+    border: .1rem solid black;
+    padding: .1rem .1rem .1rem .1rem;
+    background-color: white;
+}
+
+img {
+    padding: 0rem 1rem 0rem 0rem;
+}
+html {
+    font-family: Arial;
+}
+
+h1 {
+    color: red;
+    font-family: Arial;
+    font-size: 48px;
+    text-align: center;
+}   
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.homeButton {
+    width: 4rem;
+    height: 4rem;   
+}
+
+a {
+    display: block;
+    margin: .1rem;
+    border: .1rem solid black;
+    padding: .1rem .1rem .1rem .1rem;
+    background-color: white;
+}
+
+img {
+    padding: 0rem 1rem 0rem 0rem;
+}
+html {
+    font-family: Arial;
+}
+
+h1 {
+    color: red;
+    font-family: Arial;
+    font-size: 48px;
+    text-align: center;
+}   
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.homeButton {
+    width: 4rem;
+    height: 4rem;   
+}
+
+a {
+    display: block;
+    margin: .1rem;
+    border: .1rem solid black;
+    padding: .1rem .1rem .1rem .1rem;
+    background-color: white;
+}
+
+img {
+    padding: 0rem 1rem 0rem 0rem;
 }
