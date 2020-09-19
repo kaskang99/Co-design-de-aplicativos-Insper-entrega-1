@@ -1,0 +1,11 @@
+h1{
+    color: red;
+    font-family: Arial;
+    font-size: 48px;
+    text-align: center;
+}
+
+.homeButton {
+    width: 60px;
+    height: 60px;
+}
