@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\pagina_dos_fluxos_de_uso",
+    "\\pagina_dos_fluxos_de_uso\\fluxo_de_uso_escalar_time",
+    "\\pagina_dos_fluxos_de_uso\\fluxo_de_uso_escalar_time\\resources",
+    "\\pagina_dos_fluxos_de_uso\\fluxo_de_uso_escalar_time\\resources\\css"
   ],
+  "SelectedNode": "\\pagina_dos_fluxos_de_uso\\fluxo_de_uso_escalar_time\\tela_com_o_time.html",
   "PreviewInSolutionExplorer": false
 }
